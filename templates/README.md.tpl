@@ -2,17 +2,12 @@ Hi, I’m Jason—a Sr. IT Systems Engineer & Team Lead with 20+ years building 
 
 > "Release early. Release often. And listen to your customers." — Eric S. Raymond, The Cathedral and the Bazaar
 
-### 🛠️ I'm currently working on
+#### 🛠️ I'm Currently Working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-### 🚀 My recent Pull Requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-### ⭐ Recent Stars
+#### ⭐ Recent Stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
