@@ -2,7 +2,7 @@ Hi, I’m Jason—a Sr. IT Systems Engineer & Team Lead with 20+ years building 
 
 > "Release early. Release often. And listen to your customers." — Eric S. Raymond, The Cathedral and the Bazaar
 
-### 🛠️ I'm currently working on
+#### 🛠️ I'm Currently Working on
 
 - [jason4151/opentofu](https://github.com/jason4151/opentofu) - OpenTofu/Terraform Configurations. (3 days ago)
 - [jason4151/dotfiles](https://github.com/jason4151/dotfiles) - My personal dotfiles. (4 days ago)
@@ -10,15 +10,7 @@ Hi, I’m Jason—a Sr. IT Systems Engineer & Team Lead with 20+ years building 
 - [jason4151/shell-scripts](https://github.com/jason4151/shell-scripts) - A collection of shell scripts and examples. (5 days ago)
 - [jason4151/gha-shared](https://github.com/jason4151/gha-shared) - GitHub Actions workflows shared across projects. (1 month ago)
 
-### 🚀 My recent Pull Requests
-
-- [Eks](https://github.com/jason4151/opentofu/pull/11) on [jason4151/opentofu](https://github.com/jason4151/opentofu) (2 days ago)
-- [IAM user creation via OpenTofu](https://github.com/jason4151/opentofu/pull/10) on [jason4151/opentofu](https://github.com/jason4151/opentofu) (2 days ago)
-- [EKS Updates](https://github.com/jason4151/opentofu/pull/9) on [jason4151/opentofu](https://github.com/jason4151/opentofu) (3 days ago)
-- [EKS configuration ](https://github.com/jason4151/opentofu/pull/8) on [jason4151/opentofu](https://github.com/jason4151/opentofu) (3 days ago)
-- [Athena and Jump box updates](https://github.com/jason4151/opentofu/pull/7) on [jason4151/opentofu](https://github.com/jason4151/opentofu) (3 days ago)
-
-### ⭐ Recent Stars
+#### ⭐ Recent Stars
 
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (today)
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository (3 days ago)
