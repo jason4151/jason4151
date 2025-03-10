@@ -1,6 +1,6 @@
 👋 Hi, I’m Jason—a Sr. IT Systems Engineer & Team Lead with 20+ years building scalable, secure systems. I enjoy mentoring and tackling challenges with IaC & AWS—check out my repos & reach out for work on projects!
 
-> "Release early. Release often. And listen to your customers." — Eric S. Raymond
+> "Release early. Release often. And listen to your customers." — Eric S. Raymond, The Cathedral and the Bazaar
 
 #### 🛠️ I'm Currently Working on
 {{range recentContributions 5}}
