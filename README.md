@@ -1,4 +1,4 @@
-👋 Hi, I’m Jason—a proven DevOps Engineer & Team Lead with 20+ years crafting scalable, secure solutions. I enjoy mentoring and tackling challenges with IaC & AWS—check out my repos & reach out for work on projects!
+👋 Hi, I’m Jason—a proven Cloud Engineering & DevOps Leader with 20+ years crafting scalable, secure solutions. I enjoy mentoring and tackling challenges with IaC & AWS—check out my repos & reach out for work on projects!
 
 > "Release early. Release often. And listen to your customers." — Eric S. Raymond, The Cathedral and the Bazaar
 
