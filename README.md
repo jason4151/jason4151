@@ -16,4 +16,4 @@
 - [awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer) - EKS Node Viewer (1 month ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 months ago)
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository (2 months ago)
-- [CloudNativeStudyGroup/Linux-Foundation-Coupons](https://github.com/CloudNativeStudyGroup/Linux-Foundation-Coupons) - Latest Linux Foundation Coupons (2 months ago)
+- [CloudNativeStudyGroup/Linux-Foundation-Coupons](https://github.com/CloudNativeStudyGroup/Linux-Foundation-Coupons) - Latest Linux Foundation Coupons (3 months ago)
