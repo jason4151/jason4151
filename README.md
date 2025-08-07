@@ -1,7 +1,5 @@
 👋 Hi, I’m Jason—a proven Cloud Engineering & DevOps Leader with 20+ years crafting scalable, secure solutions. I enjoy mentoring and tackling challenges with IaC & AWS—check out my repos & reach out for work on projects!
 
-> "Release early. Release often. And listen to your customers." — Eric S. Raymond, The Cathedral and the Bazaar
-
 #### 🛠️ I'm Currently Working on
 
 - [jason4151/opentofu](https://github.com/jason4151/opentofu) - OpenTofu/Terraform Configurations. (4 months ago)
