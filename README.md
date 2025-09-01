@@ -12,5 +12,5 @@
 - [aws-samples/aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) - Machine Learning University: Accelerated Natural Language Processing Class (4 months ago)
 - [awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer) - EKS Node Viewer (5 months ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (5 months ago)
-- [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository (5 months ago)
+- [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository (6 months ago)
 - [CloudNativeStudyGroup/Linux-Foundation-Coupons](https://github.com/CloudNativeStudyGroup/Linux-Foundation-Coupons) - Latest Linux Foundation Coupons (6 months ago)
