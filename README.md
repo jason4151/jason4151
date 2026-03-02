@@ -2,13 +2,13 @@
 
 #### 🛠️ I'm Currently Working on
 
-- [jason4151/opentofu](https://github.com/jason4151/opentofu) - OpenTofu/Terraform Configurations. (10 months ago)
+- [jason4151/opentofu](https://github.com/jason4151/opentofu) - OpenTofu/Terraform Configurations. (11 months ago)
 - [jason4151/pulumi](https://github.com/jason4151/pulumi) - Pulumi code. (11 months ago)
 - [jason4151/shell-scripts](https://github.com/jason4151/shell-scripts) - A collection of shell scripts and examples. (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [aws-samples/aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) - Machine Learning University: Accelerated Natural Language Processing Class (10 months ago)
+- [aws-samples/aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) - Machine Learning University: Accelerated Natural Language Processing Class (11 months ago)
 - [awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer) - EKS Node Viewer (11 months ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (11 months ago)
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository (1 year ago)
