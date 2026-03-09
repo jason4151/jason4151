@@ -3,8 +3,6 @@
 #### 🛠️ I'm Currently Working on
 
 - [jason4151/opentofu](https://github.com/jason4151/opentofu) - OpenTofu/Terraform Configurations. (11 months ago)
-- [jason4151/pulumi](https://github.com/jason4151/pulumi) - Pulumi code. (1 year ago)
-- [jason4151/shell-scripts](https://github.com/jason4151/shell-scripts) - A collection of shell scripts and examples. (1 year ago)
 
 #### ⭐ Recent Stars
 
