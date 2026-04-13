@@ -2,7 +2,6 @@
 
 #### 🛠️ I'm Currently Working on
 
-- [jason4151/opentofu](https://github.com/jason4151/opentofu) - OpenTofu/Terraform Configurations. (1 year ago)
 
 #### ⭐ Recent Stars
 
