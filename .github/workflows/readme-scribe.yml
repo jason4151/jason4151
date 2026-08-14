@@ -1,16 +1,35 @@
 name: Update README
 
 on:
+  # Do not run on every generated README commit (that created 10k+ no-op runs).
   push:
+    branches: [main]
+    paths:
+      - "templates/**"
+      - ".github/workflows/readme-scribe.yml"
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@master
+      - name: Require PERSONAL_GITHUB_TOKEN
+        env:
+          TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "::error::PERSONAL_GITHUB_TOKEN is missing or empty."
+            echo "Create a classic PAT with scopes: read:user, public_repo, repo:status"
+            echo "Add it as the repo secret PERSONAL_GITHUB_TOKEN, then re-run this workflow."
+            exit 1
+          fi
+
+      - uses: actions/checkout@v4
 
       - uses: muesli/readme-scribe@master
         env:
@@ -19,9 +38,7 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Update generated README
           branch: main
