@@ -1,4 +1,4 @@
-👋 Hi, I’m Jason—a proven Cloud Engineering & DevOps Leader with 20+ years crafting scalable, secure solutions. I enjoy mentoring and tackling challenges with IaC & AWS. Check out my repos & reach out for work on projects!
+👋 Hi, I’m Jason — a sysadmin turned engineering manager with 20+ years building and running reliable infrastructure, from data centers to large-scale AWS. Browse the repos, and reach out if you want to work together.
 
 #### 🛠️ I'm Currently Working on
 
