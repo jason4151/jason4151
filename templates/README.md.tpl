@@ -1,4 +1,4 @@
-👋 Hi, I’m Jason, a sysadmin turned engineering manager with 20+ years building and running reliable infrastructure, from data centers to large-scale AWS. Browse the repos, and reach out if you want to work together.
+👋 Hi, I’m Jason. Engineering manager focused on infrastructure, Linux, cloud platforms, and reliability. Currently leading cloud engineering for large-scale production systems.
 
 #### 🛠️ I'm Currently Working on
 {{WORKING_ON}}
