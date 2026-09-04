@@ -1,11 +1,11 @@
 👋 Hi, I’m Jason. Engineering manager focused on infrastructure, Linux, cloud platforms, and reliability. Currently leading cloud engineering for large-scale production systems.
 
 #### 🛠️ I'm Currently Working on
+- [jason4151/gha-shared](https://github.com/jason4151/gha-shared) - GitHub Actions workflows shared across projects. (today)
+- [jason4151/subnet-calculator](https://github.com/jason4151/subnet-calculator) - React subnet calculator. CI on push; Helm deploy to lab EKS Auto Mode on workflow_dispatch. (today)
+- [jason4151/opentofu](https://github.com/jason4151/opentofu) - OpenTofu/Terraform Configurations. (today)
 - [jason4151/shell-scripts](https://github.com/jason4151/shell-scripts) - A collection of shell scripts and examples. (today)
-- [jason4151/opentofu](https://github.com/jason4151/opentofu) - OpenTofu/Terraform Configurations. (2 weeks ago)
 - [jason4151/dotfiles](https://github.com/jason4151/dotfiles) - My personal dotfiles. (3 weeks ago)
-- [jason4151/pulumi](https://github.com/jason4151/pulumi) - Pulumi code. (1 year ago)
-- [jason4151/salt](https://github.com/jason4151/salt) - A collection of Salt state files and configuration examples. (3 years ago)
 
 #### ⭐ Recent Stars
 - [aws-samples/aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) - Machine Learning University: Accelerated Natural Language Processing Class (1 year ago)
