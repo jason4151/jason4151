@@ -4,8 +4,8 @@
 - [jason4151/subnet-calculator](https://github.com/jason4151/subnet-calculator) - React subnet calculator. CI on push; Helm deploy to lab EKS Auto Mode on workflow_dispatch. (2 months ago)
 - [jason4151/opentofu](https://github.com/jason4151/opentofu) - OpenTofu/Terraform Configurations. (2 months ago)
 - [jason4151/gha-shared](https://github.com/jason4151/gha-shared) - GitHub Actions workflows shared across projects. (2 months ago)
-- [jason4151/shell-scripts](https://github.com/jason4151/shell-scripts) - A collection of shell scripts and examples. (2 months ago)
 - [jason4151/pulumi](https://github.com/jason4151/pulumi) - Pulumi code. (1 year ago)
+- [jason4151/salt](https://github.com/jason4151/salt) - A collection of Salt state files and configuration examples. (4 years ago)
 
 #### ⭐ Recent Stars
 - [aws-samples/aws-machine-learning-university-accelerated-nlp](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp) - Machine Learning University: Accelerated Natural Language Processing Class (1 year ago)
